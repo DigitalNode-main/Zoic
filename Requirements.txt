@@ -1,0 +1,5 @@
+flask
+requests
+base58
+pqcrypto
+py_starks
